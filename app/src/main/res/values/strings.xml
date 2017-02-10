@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulariov1.1.2</string>
+
+    <string-array name="spGenero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otros</item>
+    </string-array>
+
+
+</resources>
